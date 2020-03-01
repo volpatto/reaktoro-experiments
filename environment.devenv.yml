@@ -1,0 +1,13 @@
+name: reaktoro-env
+channels:
+  - mirror-conda-forge
+dependencies:
+  - reaktoro
+  - jupyter
+  - widgetsnbextension
+  - jupyter_contrib_nbextensions
+  - nb_conda
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib-base
