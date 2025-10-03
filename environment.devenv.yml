@@ -1,6 +1,6 @@
 name: reaktoro-env
 channels:
-  - mirror-conda-forge
+  - conda-forge
 dependencies:
   - reaktoro
   - jupyter
