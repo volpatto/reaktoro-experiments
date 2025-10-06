@@ -11,3 +11,7 @@ dependencies:
   - scipy
   - pandas
   - matplotlib-base
+
+environment:
+  DATABASES: {{ root }}/databases
+  MATPLOTLIBRC: {{ root }}/config
